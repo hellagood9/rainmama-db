@@ -64,5 +64,99 @@
         }
       ]
     }
+  ],
+  "lyrics": [
+    {
+      "id": 1,
+      "name": "Diferente",
+      "duration": "2:26",
+      "track": 1,
+      "albumIds": [2],
+      "released": "",
+      "recordingPlace": "RPM Studios",
+      "author": [""],
+      "lyrics": "In my eyes, indisposed In disguises no one knows Hides the face, lies the snake In the sun in my disgrace Boiling heat, summer stench 'Neath the black the sky looks dead Call my name through the cream And I'll hear you scream again",
+      "color": "#E1306C",
+      "art": "",
+      "urls": [
+        {
+          "name": "local",
+          "url": "https://open.spotify.com/track/4cxYq6QdPocBkMZh2RBJu3?si=cc62db0599db44dd"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/track/4cxYq6QdPocBkMZh2RBJu3?si=cc62db0599db44dd"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "El Banquete",
+      "duration": "3:00",
+      "track": 2,
+      "albumIds": [2],
+      "released": "",
+      "recordingPlace": "RPM Studios",
+      "author": [""],
+      "lyrics": "Donec semper metus nec neque gravida consectetur. Duis scelerisque, tortor non sollicitudin tempor, est lorem accumsan lectus, pharetra ultricies mi felis vel lacus. Pellentesque tempor urna porta, ultricies lectus non, ornare lorem. Mauris vitae orci et neque faucibus dignissim. Fusce ultricies rhoncus iaculis. Vestibulum quis maximus lacus. Cras non sollicitudin risus, at interdum purus.",
+      "color": "#E1306C",
+      "art": "",
+      "urls": [
+        {
+          "name": "local",
+          "url": "https://open.spotify.com/track/4cxYq6QdPocBkMZh2RBJu3?si=cc62db0599db44dd"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/track/4cxYq6QdPocBkMZh2RBJu3?si=cc62db0599db44dd"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Adicciones",
+      "duration": "3:37",
+      "track": 3,
+      "albumIds": [2],
+      "released": "",
+      "recordingPlace": "RPM Studios",
+      "author": [""],
+      "lyrics": "",
+      "color": "#E1306C",
+      "art": "",
+      "urls": [
+        {
+          "name": "local",
+          "url": "https://open.spotify.com/track/4cxYq6QdPocBkMZh2RBJu3?si=cc62db0599db44dd"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/track/4cxYq6QdPocBkMZh2RBJu3?si=cc62db0599db44dd"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Animal Ancestral",
+      "duration": "3:24",
+      "track": 4,
+      "albumIds": [2],
+      "released": "",
+      "recordingPlace": "RPM Studios",
+      "author": [""],
+      "lyrics": "",
+      "color": "#E1306C",
+      "art": "",
+      "urls": [
+        {
+          "name": "local",
+          "url": "https://open.spotify.com/track/4cxYq6QdPocBkMZh2RBJu3?si=cc62db0599db44dd"
+        },
+        {
+          "name": "spotify",
+          "url": "https://open.spotify.com/track/4cxYq6QdPocBkMZh2RBJu3?si=cc62db0599db44dd"
+        }
+      ]
+    }
   ]
 }
