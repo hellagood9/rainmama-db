@@ -25,6 +25,7 @@
     {
       "id": 1,
       "name": "Blunk",
+      "slug": "blunk",
       "tracks": 6,
       "duration": "24:15",
       "released": 2019,
@@ -46,6 +47,7 @@
     {
       "id": 2,
       "name": "Diferente",
+      "slug": "diferente",
       "tracks": 4,
       "duration": "16:26",
       "released": 2021,
@@ -69,6 +71,7 @@
     {
       "id": 1,
       "name": "Diferente",
+      "slug": "diferente",
       "duration": "2:26",
       "track": 1,
       "albumId": 2,
@@ -92,6 +95,7 @@
     {
       "id": 2,
       "name": "El Banquete",
+      "slug": "el-banquete",
       "duration": "3:00",
       "track": 2,
       "albumId": 2,
@@ -115,6 +119,7 @@
     {
       "id": 3,
       "name": "Adicciones",
+      "slug": "adicciones",
       "duration": "3:37",
       "track": 3,
       "albumId": 2,
@@ -138,6 +143,7 @@
     {
       "id": 4,
       "name": "Animal Ancestral",
+      "slug": "animal-ancestral",
       "duration": "3:24",
       "track": 4,
       "albumId": 2,
