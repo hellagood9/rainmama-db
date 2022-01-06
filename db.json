@@ -3,7 +3,9 @@
     {
       "id": 1,
       "venue": "16 Toneladas",
-      "date": "ABR 3 Mié",
+      "date": 23,
+      "month": "Oct",
+      "day": "Tue",
       "location": "Valencia, Spain",
       "year": 2019,
       "art": {
